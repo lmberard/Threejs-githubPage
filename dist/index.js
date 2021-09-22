@@ -21,4 +21,5 @@ const animate = function () {
     renderer.render( scene, camera );
 };
 
+
 animate();
